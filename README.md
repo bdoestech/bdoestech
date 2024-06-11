@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img id ="banner" height="" src="https://raw.githubusercontent.com/bdoestech/bdoestech/main/github_banner.png" style = "border-radius:5px;"/>
+  <img id ="banner" height="" src="https://raw.githubusercontent.com/bdoestech/bdoestech/main/github_banner.png"/>
 </div>
 
 ###
