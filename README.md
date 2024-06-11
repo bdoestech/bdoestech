@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bdoestech&theme=bear" width=750  alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdoestech&theme=bear" width=750  alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdoestech&theme=bear" width=400  alt="stats graph"/>
 </div>
 
 ###
