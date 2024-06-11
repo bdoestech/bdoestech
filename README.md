@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://github.com/AbTrax/AbTrax/blob/main/abtrax-banner.png?raw=true"  />
+  <img height="" src="https://raw.githubusercontent.com/bdoestech/bdoestech/main/github-header-image.png"  />
 </div>
 
 ###
@@ -12,10 +12,9 @@
 
 ###
 
-🤖 I love learning about and making machine learning systems.\
-💻 I am constantly seeking out new technologies and learning about them.\
-🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.\
-🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
+🤖 I love doing random software projects.\
+💻 Always seeking to learn.\
+🌟 In my free time, I enjoy exploring a wide variety of media and finding new sources of inspiration for projects.
 ###
 
 <h2 align="center">My Stats</h2>
