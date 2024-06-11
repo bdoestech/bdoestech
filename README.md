@@ -1,14 +1,9 @@
 # Hello World! Happy coding! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ###
-<style> 
-  #banner{
-    border-radius:5px;
-  }
-</style>
 
 <div align="center">
-  <img id ="banner" height="" src="https://raw.githubusercontent.com/bdoestech/bdoestech/main/github_banner.png"/>
+  <img id ="banner" height="" src="https://raw.githubusercontent.com/bdoestech/bdoestech/main/github_banner.png" style = "border-radius:5px;"/>
 </div>
 
 ###
